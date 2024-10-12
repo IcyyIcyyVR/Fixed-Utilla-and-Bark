@@ -13,3 +13,11 @@ The Bark Mod Menu for Gorilla Tag is a custom modding tool that provides players
 with a wide range of features to enhance their gameplay experience.
 It includes various cheats like speed boosts, teleportation, and improved movement options,
 offering both competitive and fun aspects to the game.
+
+# Updated Monke-Mod-Manager
+
+MonkeModManager is a popular tool for Gorilla Tag players to easily install and manage mods for the game.
+It simplifies the process of adding new features, custom skins, and other enhancements by offering a user-friendly interface.
+With just a few clicks, players can browse available mods, install or update them, and ensure compatibility with the latest game version.
+MonkeModManager helps organize mods and keeps them up-to-date, making it accessible even for players new to modding.
+Overall, it enriches the Gorilla Tag experience by enabling more customization and creativity in the multiplayer environment.
